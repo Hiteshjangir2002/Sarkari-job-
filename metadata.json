@@ -1,0 +1,5 @@
+{
+  "name": "SarkariJob Portal",
+  "description": "A comprehensive government job portal featuring a public listing page and a local-storage based admin dashboard for managing job posts.",
+  "requestFramePermissions": []
+}
